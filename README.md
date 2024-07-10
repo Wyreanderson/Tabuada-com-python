@@ -1,2 +1,2 @@
-# calculadora-em-python-
-minha primeira calculadora em python
+# Calcular_tabuada_com_python
+Calcular tabuada com python
